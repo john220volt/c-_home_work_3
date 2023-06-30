@@ -3,3 +3,13 @@ C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\c#homework3.G
 C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\c#homework3.AssemblyInfoInputs.cache
 C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\c#homework3.AssemblyInfo.cs
 C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\c#homework3.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\c#homework2\c#homework3\bin\Debug\net6.0\c#homework3.exe
+C:\Users\Олег\Desktop\c#homework2\c#homework3\bin\Debug\net6.0\c#homework3.deps.json
+C:\Users\Олег\Desktop\c#homework2\c#homework3\bin\Debug\net6.0\c#homework3.runtimeconfig.json
+C:\Users\Олег\Desktop\c#homework2\c#homework3\bin\Debug\net6.0\c#homework3.dll
+C:\Users\Олег\Desktop\c#homework2\c#homework3\bin\Debug\net6.0\c#homework3.pdb
+C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\c#homework3.dll
+C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\refint\c#homework3.dll
+C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\c#homework3.pdb
+C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\c#homework3.genruntimeconfig.cache
+C:\Users\Олег\Desktop\c#homework2\c#homework3\obj\Debug\net6.0\ref\c#homework3.dll
